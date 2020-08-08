@@ -33,7 +33,7 @@
   <img align="left" alt="NameMC" width="25px" src="https://pbs.twimg.com/profile_images/916322265762955264/exVHzb6M_400x400.jpg" />
 </a>
 
-<br />
+<br/><br/>
 
 Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm currently studing at a High School, and enjoy to make projects with my talented friends! I'm also the Host of [Require Podcast](https://require.podcast.gq), a Polish podcast about Web Development that I record with my friend [Adam](https://github.com/AdamSiekierski).
 
@@ -47,12 +47,12 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://discord.js.org/static/logo-square.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
