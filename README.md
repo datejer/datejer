@@ -39,8 +39,8 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 
 
 - 🔭 I’m currently working on: [writes.](https://github.com/writesapp)
-- 🌱 I’m currently learning: Java & Kotlin
-- 👯 I’m looking to collaborate on [Require Podcast](https://require.podcast.gq)
+- 🌱 I’m currently learning: Java (Android, Spigot/Bukkit) & Kotlin
+- 👯 I’m looking to collaborate on [Require Podcast](https://require.podcast.gq) (Looking for interesting people with interesting topics 😄)
 - 📫 How to reach me: I'm most active on Discord and Twitter (links above)!
 - ⚡ Fun fact: I can only function at night 😴
 
