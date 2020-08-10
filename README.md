@@ -46,6 +46,11 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://discord.js.org/static/logo-square.png"></code>
@@ -54,6 +59,7 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 <code><img height="20" src="https://codingthesmartway.com/wp-content/uploads/2019/02/gatsby-logo.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg"></code>
 
 
 
