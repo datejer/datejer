@@ -44,6 +44,20 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 - 📫 How to reach me: I'm most active on Discord and Twitter (links above)!
 - ⚡ Fun fact: I can only function at night 😴
 
+**Projects and Contributions:**
+
+- [Unsplash Bot](https://github.com/datejer/unsplash) - Discord Bot for viewing images from Unsplash.com.
+- [Quotes](https://github.com/datejer/quotes) - Website made with CRA for showing aesthetic quotes.
+- [SearchPI](https://github.com/datejer/SearchPI) - Website made with Next.js and serverless functions for searching patterns in the first million digits of PI.
+- [Tytułowa](https://github.com/zsk-poznan/tytulowa) - Web app made with CRA that generates title pages for geography lessons. 
+- [p5js-cli](https://github.com/datejer/p5js-cli) - Simple CLI tool made in node for bootstrapping new p5.js projects and statically serving them.
+- [MinecraftNameChecker](https://github.com/datejer/MinecraftNameChecker) - Command line application made in C# that checks Minecraft username availability.
+- [SpigotMSG](https://github.com/datejer/SpigotMSG), [SpigotPing](https://github.com/datejer/SpigotPing), [SpigotReport](https://github.com/datejer/SpigotReport) - Series of small Spigot Minecraft plugins customized for my personal needs.
+- [Require Podcast](https://github.com/requirepodcast) - Web development podcast (+ website, newsletter, discord bot, mobile app and studio web app).
+- [writes.](https://github.com/writesapp) - Web platform for sharing essay and homework ideas.
+- [zskTasks](https://zsktasks.gq) - Web app made for our class that helps with tracking tasks, homework, people on duty and notebook schedule.
+- [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Helped with translating the Gatsby docs to Polish.
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
