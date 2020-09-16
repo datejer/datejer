@@ -38,7 +38,7 @@
 Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm currently studying at a High School, and enjoy to make projects with my talented friends! I'm also the Host of [Require Podcast](https://require.podcast.gq), a Polish podcast about Web Development that I record with my friend [Adam](https://github.com/AdamSiekierski).
 
 
-- 🔭 I’m currently working on: [lnkr](https://github.com/datejer/lnkr) and [ejer.ga](https://ejer.ga)
+- 🔭 I’m currently working on: [lnkr](https://github.com/datejer/lnkr) & [ejer.ga](https://ejer.ga)
 - 🌱 I’m currently learning: Java (+Android & Spigot/Bukkit), Kotlin (+Android) & C# (.NET)
 - 👯 I’m looking to collaborate on [Require Podcast](https://require.podcast.gq) (Looking for interesting people with interesting topics 😄)
 - 📫 How to reach me: I'm most active on Discord and Twitter (links above)!
