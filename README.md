@@ -54,6 +54,7 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 - [MinecraftNameChecker](https://github.com/datejer/MinecraftNameChecker) - Command line application made in C# that checks Minecraft username availability.
 - [SpigotMSG](https://github.com/datejer/SpigotMSG), [SpigotPing](https://github.com/datejer/SpigotPing), [SpigotReport](https://github.com/datejer/SpigotReport) - Series of small Spigot Minecraft plugins customized for my personal needs.
 - [Require Podcast](https://github.com/requirepodcast) - Web development podcast (+ website, newsletter, discord bot, mobile app and studio web app).
+- [HonestWeather](https://github.com/honestweatherapp) - Multiplatform app that tells you what the weather REALLY is. (express api, gatsby website, swift ios app and kotlin android app)
 - [writes.](https://github.com/writesapp) - Web platform for sharing essay and homework ideas.
 - [zskTasks](https://zsktasks.gq) - Web app made for our class that helps with tracking tasks, homework, people on duty and notebook schedule.
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Helped with translating the Gatsby docs to Polish.
