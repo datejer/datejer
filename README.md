@@ -62,8 +62,10 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 **Languages and Tools:**  
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"></code>
+<code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png"></code>
+<code><img height="30" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
