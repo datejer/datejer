@@ -1,4 +1,4 @@
- ### Hello! I'm [ejer](https://ejer.ga) 👋
+## Hello! I'm [ejer](https://ejer.ga) 👋
 
 <br/>
 
