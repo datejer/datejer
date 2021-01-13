@@ -82,6 +82,6 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 
 
 
-![ejer's github stats](https://github-readme-stats.vercel.app/api?username=datejer&show_icons=true)
+![ejer's github stats](https://github-readme-stats.vercel.app/api?username=datejer&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datejer&layout=compact)
