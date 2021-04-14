@@ -46,7 +46,7 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 
 **Projects and Contributions:**
 
-- [Unsplash](https://github.com/datejer/unsplash) - Discord Bot for viewing images from Unsplash.com.
+- [Splash](https://github.com/datejer/splash) - Discord Bot for viewing images from Unsplash.com.
 - [Quotes](https://github.com/datejer/quotes) - Website made with CRA for showing aesthetic quotes.
 - [SearchPI](https://github.com/datejer/SearchPI) - Website made with Next.js and serverless functions for searching patterns in the first million digits of PI.
 - [Tytułowa](https://github.com/zsk-poznan/tytulowa) - Web app made with CRA that generates title pages for geography lessons. 
