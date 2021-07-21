@@ -39,7 +39,7 @@ Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm 
 
 
 - 🔭 I’m currently working on: [Hypxl](https://github.com/datejer/hypxl), [Atrumbella](https://github.com/atrumbella)
-- 🌱 I’m currently learning: TypeScript, Source SDK (GoldSrc, Portal 1 and 2 modding)
+- 🌱 I’m currently learning: 🤷‍♂️
 - 👯 I’m looking to collaborate on [Require Podcast](https://require.podcast.gq) (Looking for interesting people with interesting topics 😄)
 - 📫 How to reach me: I'm most active on Discord and Twitter (links above)!
 - ⚡ Fun fact: I mainly function at night 😴
