@@ -30,7 +30,7 @@
   <img align="left" alt="SoundCloud" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
 </a>
 <a href="https://namemc.com/profile/ejer.1">
-  <img align="left" alt="NameMC" width="25px" src="https://pbs.twimg.com/profile_images/916322265762955264/exVHzb6M_400x400.jpg" />
+  <img align="left" alt="NameMC" width="25px" src="https://i.imgur.com/DahAd4y.png" />
 </a>
 
 <br/><br/>
