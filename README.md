@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-Hey! My name is ejer and I'm a self-taught Fullstack Developer from Poland. I'm currently studying at a High School, and enjoy to make projects with my talented friends! I'm also the Host of [Require Podcast](https://require.podcast.gq), a Polish podcast about Web Development that I record with my friend [Adam](https://github.com/AdamSiekierski).
+Hey! My name is ejer and I'm a self-taught nostack Developer from Poland. I'm currently studying at a High School, and enjoy to make projects with my talented friends! I'm also the Host of [Require Podcast](https://require.podcast.gq), a Polish podcast about Web Development that I record with my friend [Adam](https://github.com/AdamSiekierski).
 
 
 - 🔭 I’m currently working on: [GDBL](https://github.com/gdbl), [Hypxl](https://github.com/datejer/hypxl)
