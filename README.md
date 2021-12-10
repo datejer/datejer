@@ -12,11 +12,12 @@ My name is ejer, but you may know me by Artur. I'm a self-taught Fullstack Devel
 
 - [Require Podcast](https://github.com/requirepodcast) - Web development podcast (+ website, newsletter, discord bot, mobile app and studio web app).
 - [GDBL](https://github.com/gdbl) - Website made with Next.js for finding and promoting Discord bots.
-- [Quotes](https://github.com/datejer/quotes) - Website made with CRA for showing aesthetic quotes.
+- [react-vgui](https://vgui.gq/) - React library made with TypeScript to emulate the feel of the original Half-Life UI.
 - [SearchPI](https://github.com/datejer/SearchPI) - Website made with Next.js for searching patterns in the first million digits of PI.
 - [Tytułowa](https://github.com/zsk-poznan/tytulowa) - Web app made with CRA that generates title pages for geography lessons.
 - [p5js-cli](https://github.com/datejer/p5js-cli) - Simple CLI tool made in node for bootstrapping p5.js projects.
 - [zskTasks](https://zsktasks.gq) - Web app made for our class that helps with tracking tasks, homework, people on duty and notebook schedule.
+- [Quotes](https://github.com/datejer/quotes) - Website made with CRA for showing aesthetic quotes.
 - [gatsby-pl](https://github.com/gatsbyjs/gatsby-pl) - Helped with translating the Gatsby docs to Polish.
 
 **Stuff I use:**
