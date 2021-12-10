@@ -11,6 +11,7 @@ My name is ejer, but you may know me by Artur. I'm a self-taught Fullstack Devel
 **Extra Pinned:**
 
 - [Require Podcast](https://github.com/requirepodcast) - Web development podcast (+ website, newsletter, discord bot, mobile app and studio web app).
+- [ZSK Amnesty](https://github.com/tripleadev/zsk-amnesty) - Web app made with Next.js, TypeScript and PostgreSQL (Prisma) for counting letters and generating stats for the Amnesty International letter writing marathon at our school.
 - [GDBL](https://github.com/gdbl) - Website made with Next.js for finding and promoting Discord bots.
 - [react-vgui](https://vgui.gq/) - React library made with TypeScript to emulate the feel of the original Half-Life UI.
 - [SearchPI](https://github.com/datejer/SearchPI) - Website made with Next.js for searching patterns in the first million digits of PI.
